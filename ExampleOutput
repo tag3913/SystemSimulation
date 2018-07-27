@@ -1,0 +1,156 @@
+Events:
+        (Delta: External Time: 0.4 Machine:Press P:0 S:0 Q: 1 E: 0.4)
+        (Delta: External Time: 0.5 Machine:Press P:0 S:0 Q: 4 E: 0.1)
+        (Delta: External Time: 0.7 Machine:Press P:0 S:0 Q: 2 E: 0.2)
+        (Delta: External Time: 1.1 Machine:Press P:0 S:0 Q: 1 E: 0.4)
+        (Delta: External Time: 2.1 Machine:Press P:0 S:0 Q: 1 E: 1)
+TIME: 0 | Executing     (Delta: External Time: 0.4 Machine:Press P:1 S:1 Q: 1 E: 0)
+Events:
+        (Delta: External Time: 0.5 Machine:Press P:1 S:1 Q: 4 E: 0.1)
+        (Delta: External Time: 1.1 Machine:Press P:1 S:1 Q: 1 E: 0.4)
+        (Delta: External Time: 0.7 Machine:Press P:1 S:1 Q: 2 E: 0.2)
+        (Delta: External Time: 2.1 Machine:Press P:1 S:1 Q: 1 E: 1)
+        (Delta: Internal Time: 1.4 Machine:Press P:1 S:1 Q: 0 E: 0)
+TIME: 0.4 | Executing   (Delta: External Time: 0.5 Machine:Press P:5 S:0.9 Q: 4 E: 0.1)
+Events:
+        (Delta: External Time: 0.7 Machine:Press P:5 S:0.9 Q: 2 E: 0.2)
+        (Delta: External Time: 1.1 Machine:Press P:5 S:0.9 Q: 1 E: 0.4)
+        (Delta: External Time: 2.1 Machine:Press P:5 S:0.9 Q: 1 E: 1)
+        (Delta: Internal Time: 1.4 Machine:Press P:5 S:0.9 Q: 0 E: 0)
+TIME: 0.5 | Executing   (Delta: External Time: 0.7 Machine:Press P:7 S:0.7 Q: 2 E: 0.2)
+Events:
+        (Delta: External Time: 1.1 Machine:Press P:7 S:0.7 Q: 1 E: 0.4)
+        (Delta: External Time: 2.1 Machine:Press P:7 S:0.7 Q: 1 E: 1)
+        (Delta: Internal Time: 1.4 Machine:Press P:7 S:0.7 Q: 0 E: 0)
+TIME: 0.7 | Executing   (Delta: External Time: 1.1 Machine:Press P:8 S:0.3 Q: 1 E: 0.4)
+Events:
+        (Delta: Internal Time: 1.4 Machine:Press P:8 S:0.3 Q: 0 E: 0)
+        (Delta: External Time: 2.1 Machine:Press P:8 S:0.3 Q: 1 E: 1)
+TIME: 1.1 | Executing   (Delta: Internal Time: 1.4 Machine:Press P:7 S:1 Q: 0 E: 0.3)
+Events:
+        (Delta: External Time: 1.4 Machine:Drill P:0 S:0 Q: 1 E: 0.4)
+        (Delta: External Time: 2.1 Machine:Press P:7 S:1 Q: 1 E: 1)
+        (Delta: Internal Time: 2.4 Machine:Press P:7 S:1 Q: 2 E: 0.2)
+TIME: 1.4 | Executing   (Delta: External Time: 1.4 Machine:Drill P:1 S:2 Q: 1 E: 0)
+Events:
+        (Delta: External Time: 2.1 Machine:Press P:7 S:1 Q: 1 E: 1)
+        (Delta: Internal Time: 2.4 Machine:Press P:7 S:1 Q: 2 E: 0.2)
+        (Delta: Internal Time: 3.4 Machine:Drill P:1 S:2 Q: 0 E: 0.3)
+TIME: 1.4 | Executing   (Delta: External Time: 2.1 Machine:Press P:8 S:0.3 Q: 1 E: 0.7)
+Events:
+        (Delta: Internal Time: 2.4 Machine:Press P:8 S:0.3 Q: 2 E: 0.2)
+        (Delta: Internal Time: 3.4 Machine:Drill P:1 S:2 Q: 0 E: 0.3)
+TIME: 2.1 | Executing   (Delta: Internal Time: 2.4 Machine:Press P:7 S:1 Q: 2 E: 0.3)
+Events:
+        (Delta: External Time: 2.4 Machine:Drill P:1 S:2 Q: 1 E: 0.7)
+        (Delta: Internal Time: 3.4 Machine:Drill P:1 S:2 Q: 0 E: 0.3)
+        (Delta: Internal Time: 3.4 Machine:Press P:7 S:1 Q: 1 E: 0)
+TIME: 2.4 | Executing   (Delta: External Time: 2.4 Machine:Drill P:2 S:1 Q: 1 E: 1)
+Events:
+        (Delta: Internal Time: 3.4 Machine:Press P:7 S:1 Q: 1 E: 0)
+        (Delta: Internal Time: 3.4 Machine:Drill P:2 S:1 Q: 0 E: 0.3)
+TIME: 2.4 | Executing   (Delta: Internal Time: 3.4 Machine:Press P:6 S:1 Q: 1 E: 1)
+Events:
+        (Delta: Internal Time: 3.4 Machine:Drill P:2 S:1 Q: 0 E: 0.3)
+        (Delta: External Time: 3.4 Machine:Drill P:2 S:1 Q: 1 E: 1)
+        (Delta: Internal Time: 4.4 Machine:Press P:6 S:1 Q: 2 E: 0.3)
+TIME: 3.4 | Parts Completed: 1
+Executing       (Delta: Internal Time: 3.4 Machine:Drill P:1 S:2 Q: 0 E: 1)
+Events:
+        (Delta: External Time: 3.4 Machine:Drill P:1 S:2 Q: 1 E: 1)
+        (Delta: Internal Time: 4.4 Machine:Press P:6 S:1 Q: 2 E: 0.3)
+        (Delta: Internal Time: 5.4 Machine:Drill P:1 S:2 Q: 1 E: 1)
+TIME: 3.4 | Executing   (Delta: External Time: 3.4 Machine:Drill P:2 S:2 Q: 1 E: 0)
+Events:
+        (Delta: Internal Time: 4.4 Machine:Press P:6 S:1 Q: 2 E: 0.3)
+        (Delta: Internal Time: 5.4 Machine:Drill P:2 S:2 Q: 1 E: 1)
+TIME: 3.4 | Executing   (Delta: Internal Time: 4.4 Machine:Press P:5 S:1 Q: 2 E: 1)
+Events:
+        (Delta: External Time: 4.4 Machine:Drill P:2 S:2 Q: 1 E: 0)
+        (Delta: Internal Time: 5.4 Machine:Drill P:2 S:2 Q: 1 E: 1)
+        (Delta: Internal Time: 5.4 Machine:Press P:5 S:1 Q: 0 E: 1)
+TIME: 4.4 | Executing   (Delta: External Time: 4.4 Machine:Drill P:3 S:1 Q: 1 E: 1)
+Events:
+        (Delta: Internal Time: 5.4 Machine:Press P:5 S:1 Q: 0 E: 1)
+        (Delta: Internal Time: 5.4 Machine:Drill P:3 S:1 Q: 1 E: 1)
+TIME: 4.4 | Executing   (Delta: Internal Time: 5.4 Machine:Press P:4 S:1 Q: 0 E: 1)
+Events:
+        (Delta: Internal Time: 5.4 Machine:Drill P:3 S:1 Q: 1 E: 1)
+        (Delta: External Time: 5.4 Machine:Drill P:3 S:1 Q: 1 E: 1)
+        (Delta: Internal Time: 6.4 Machine:Press P:4 S:1 Q: 2 E: 1)
+TIME: 5.4 | Parts Completed: 2
+Executing       (Delta: Internal Time: 5.4 Machine:Drill P:2 S:2 Q: 1 E: 1)
+Events:
+        (Delta: External Time: 5.4 Machine:Drill P:2 S:2 Q: 1 E: 1)
+        (Delta: Internal Time: 6.4 Machine:Press P:4 S:1 Q: 2 E: 1)
+        (Delta: Internal Time: 7.4 Machine:Drill P:2 S:2 Q: 0 E: 1)
+TIME: 5.4 | Executing   (Delta: External Time: 5.4 Machine:Drill P:3 S:2 Q: 1 E: 0)
+Events:
+        (Delta: Internal Time: 6.4 Machine:Press P:4 S:1 Q: 2 E: 1)
+        (Delta: Internal Time: 7.4 Machine:Drill P:3 S:2 Q: 0 E: 1)
+TIME: 5.4 | Executing   (Delta: Internal Time: 6.4 Machine:Press P:3 S:1 Q: 2 E: 1)
+Events:
+        (Delta: External Time: 6.4 Machine:Drill P:3 S:2 Q: 1 E: 0)
+        (Delta: Internal Time: 7.4 Machine:Drill P:3 S:2 Q: 0 E: 1)
+        (Delta: Internal Time: 7.4 Machine:Press P:3 S:1 Q: 1 E: 1)
+TIME: 6.4 | Executing   (Delta: External Time: 6.4 Machine:Drill P:4 S:1 Q: 1 E: 1)
+Events:
+        (Delta: Internal Time: 7.4 Machine:Press P:3 S:1 Q: 1 E: 1)
+        (Delta: Internal Time: 7.4 Machine:Drill P:4 S:1 Q: 0 E: 1)
+TIME: 6.4 | Executing   (Delta: Internal Time: 7.4 Machine:Press P:2 S:1 Q: 1 E: 1)
+Events:
+        (Delta: Internal Time: 7.4 Machine:Drill P:4 S:1 Q: 0 E: 1)
+        (Delta: External Time: 7.4 Machine:Drill P:4 S:1 Q: 1 E: 1)
+        (Delta: Internal Time: 8.4 Machine:Press P:2 S:1 Q: 2 E: 1)
+TIME: 7.4 | Parts Completed: 3
+Executing       (Delta: Internal Time: 7.4 Machine:Drill P:3 S:2 Q: 0 E: 1)
+Events:
+        (Delta: External Time: 7.4 Machine:Drill P:3 S:2 Q: 1 E: 1)
+        (Delta: Internal Time: 8.4 Machine:Press P:2 S:1 Q: 2 E: 1)
+        (Delta: Internal Time: 9.4 Machine:Drill P:3 S:2 Q: 1 E: 1)
+TIME: 7.4 | Executing   (Delta: External Time: 7.4 Machine:Drill P:4 S:2 Q: 1 E: 0)
+Events:
+        (Delta: Internal Time: 8.4 Machine:Press P:2 S:1 Q: 2 E: 1)
+        (Delta: Internal Time: 9.4 Machine:Drill P:4 S:2 Q: 1 E: 1)
+TIME: 7.4 | Executing   (Delta: Internal Time: 8.4 Machine:Press P:1 S:1 Q: 2 E: 1)
+Events:
+        (Delta: External Time: 8.4 Machine:Drill P:4 S:2 Q: 1 E: 0)
+        (Delta: Internal Time: 9.4 Machine:Drill P:4 S:2 Q: 1 E: 1)
+        (Delta: Internal Time: 9.4 Machine:Press P:1 S:1 Q: 0 E: 1)
+TIME: 8.4 | Executing   (Delta: External Time: 8.4 Machine:Drill P:5 S:1 Q: 1 E: 1)
+Events:
+        (Delta: Internal Time: 9.4 Machine:Press P:1 S:1 Q: 0 E: 1)
+        (Delta: Internal Time: 9.4 Machine:Drill P:5 S:1 Q: 1 E: 1)
+TIME: 8.4 | Executing   (Delta: Internal Time: 9.4 Machine:Press P:0 S:1 Q: 0 E: 1)
+Events:
+        (Delta: Internal Time: 9.4 Machine:Drill P:5 S:1 Q: 1 E: 1)
+        (Delta: External Time: 9.4 Machine:Drill P:5 S:1 Q: 1 E: 1)
+TIME: 9.4 | Parts Completed: 4
+Executing       (Delta: Internal Time: 9.4 Machine:Drill P:4 S:2 Q: 1 E: 1)
+Events:
+        (Delta: External Time: 9.4 Machine:Drill P:4 S:2 Q: 1 E: 1)
+        (Delta: Internal Time: 11.4 Machine:Drill P:4 S:2 Q: 0 E: 1)
+TIME: 9.4 | Executing   (Delta: External Time: 9.4 Machine:Drill P:5 S:2 Q: 1 E: 0)
+Events:
+        (Delta: Internal Time: 11.4 Machine:Drill P:5 S:2 Q: 0 E: 1)
+TIME: 9.4 | Parts Completed: 5
+Executing       (Delta: Internal Time: 11.4 Machine:Drill P:4 S:2 Q: 0 E: 2)
+Events:
+        (Delta: Internal Time: 13.4 Machine:Drill P:4 S:2 Q: 1 E: 0)
+TIME: 11.4 | Parts Completed: 6
+Executing       (Delta: Internal Time: 13.4 Machine:Drill P:3 S:2 Q: 1 E: 2)
+Events:
+        (Delta: Internal Time: 15.4 Machine:Drill P:3 S:2 Q: 0 E: 2)
+TIME: 13.4 | Parts Completed: 7
+Executing       (Delta: Internal Time: 15.4 Machine:Drill P:2 S:2 Q: 0 E: 2)
+Events:
+        (Delta: Internal Time: 17.4 Machine:Drill P:2 S:2 Q: 1 E: 2)
+TIME: 15.4 | Parts Completed: 8
+Executing       (Delta: Internal Time: 17.4 Machine:Drill P:1 S:2 Q: 1 E: 2)
+Events:
+        (Delta: Internal Time: 19.4 Machine:Drill P:1 S:2 Q: 0 E: 2)
+TIME: 17.4 | Parts Completed: 9
+Executing       (Delta: Internal Time: 19.4 Machine:Drill P:0 S:2 Q: 0 E: 2)
+Events:
+
+RUN FINISHED; exit value 0; real time: 0ms; user: 0ms; system: 0ms
